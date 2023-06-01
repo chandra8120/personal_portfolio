@@ -1,0 +1,90 @@
+.hourglass {
+  width: 100px;
+  height: 100px;
+  animation: rotate 5s linear infinite;
+  animation-delay: 3s;
+}
+
+.triangle {
+  width: 100px;
+  height: 50px;
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  position: relative;
+}
+
+.upper-triangle{
+    background-color: #383636;
+    transform: rotate(180deg);
+}
+
+.upper-triangle::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    clip-path: inherit;
+    background-color: aqua;
+    animation: emptyT 5s linear infinite;
+}
+
+.lower-triangle{
+    background-color: aqua;
+}
+
+.lower-triangle::before{
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 100%;
+    top:0;
+    left:50%;
+    transform: translate(-50%);
+    background-color: aqua;
+    z-index: 2;
+}
+
+.lower-triangle::after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    clip-path: inherit;
+    background-color: #383636;
+    animation: fill 5s linear infinite;
+}
+
+@keyframes emptyT {
+    0%{
+        height:50px
+    }
+    60%,
+    100%{
+        heght:0px;
+    }
+}
+/* @keyframes {
+    0%{
+        height:50px
+    }
+    60%,
+    100%{
+        heght:0px;
+    }
+} */
+
+@keyframes fill{
+    0%{
+        height:50px
+    }
+    60%,
+    100%{
+        heght:0px;
+    }
+}
+
+@keyframes rotate {
+    20%,
+    100%{
+transform: rotate(360deg);
+    }
+}
