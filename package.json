@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://MadanGopalYadav.github.io/my-portfolio",
+  "homepage": "http://MadanGopalYadav.github.io/Portfolio",
   "dependencies": {
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
