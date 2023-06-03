@@ -4,3 +4,6 @@
   overflow-y: hidden;
   overflow-x: hidden;
 }
+.MuiMenuItem-root{
+color: red;
+}

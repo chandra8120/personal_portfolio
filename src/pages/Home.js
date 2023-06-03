@@ -14,6 +14,7 @@ import AppRegistrationIcon from "@mui/icons-material/AppRegistration";
 import DesignServicesIcon from "@mui/icons-material/DesignServices";
 import StarsIcon from "@mui/icons-material/Stars";
 import developer from "../assets/developer.svg";
+import Profile from "../assets/Profile.jpg";
 import Layout from "../hoc/LandingPage_Layout";
 import { useNavigate } from "react-router-dom";
 import "./Home.css";
@@ -124,7 +125,7 @@ const Home = () => {
             backgroundPosition: "center",
           }}
         >
-          <Avatar src={developer} sx={{ width: 356, height: 356 }} />
+          <Avatar src={Profile} sx={{ width: 356, height: 356 }} />
         </Box>
 
         <Box
