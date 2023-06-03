@@ -125,7 +125,7 @@ const Home = () => {
             backgroundPosition: "center",
           }}
         >
-          <Avatar src={Profile} sx={{ width: 356, height: 356 }} />
+          <Avatar src={Profile} sx={{ width: 450, height: 450 }} />
         </Box>
 
         <Box
