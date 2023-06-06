@@ -1,8 +1,7 @@
 {
-  "homepage": "https://MadanGopal-OO7.github.io/Portfolio",
   "name": "my-portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
@@ -26,8 +25,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -51,7 +48,6 @@
     ]
   },
   "devDependencies": {
-    "@svgr/webpack": "^8.0.1",
-    "gh-pages": "^5.0.0"
+    "@svgr/webpack": "^8.0.1"
   }
 }
