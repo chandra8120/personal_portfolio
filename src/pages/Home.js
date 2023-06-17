@@ -14,7 +14,7 @@ import AppRegistrationIcon from "@mui/icons-material/AppRegistration";
 import DesignServicesIcon from "@mui/icons-material/DesignServices";
 import StarsIcon from "@mui/icons-material/Stars";
 import developer from "../assets/developer.svg";
-import Profile from "../assets/Profile.png";
+import Profile from "../assets/Profile.jpg";
 import Layout from "../hoc/LandingPage_Layout";
 import { useNavigate } from "react-router-dom";
 import "./Home.css";
@@ -67,13 +67,13 @@ const Home = () => {
               variant="h3"
               sx={{ width: "50%", fontFamily: "Poiret one",fontWeight:700 }}
             >
-              Hey !, I'm Madana Gopal,
+              Hey !, I'm Chandra Sekhar,
             </Typography>
             <Typography
               variant="h3"
               sx={{ width: "50%", fontFamily: "Poiret one",fontWeight:700 }}
             >
-              A Web Developer.
+               Front End Developer.
             </Typography>
 
             <Typography
@@ -106,8 +106,7 @@ const Home = () => {
               </Button>
             </Box>
             <Typography variant="p">
-              <StarsIcon color="primary" fontSize={"10"} /> Front-end & Backend
-              Developer
+              <StarsIcon color="primary" fontSize={"10"} /> Front-end developer
             </Typography>
           </Box>
         </Box>

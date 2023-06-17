@@ -24,32 +24,26 @@ const About = () => {
             width: "80%",
           }}
         >
-          <Typography variant="h3">Iam MadanaGopal,</Typography>
+          <Typography variant="h3">Iam Chandra Sekhar,</Typography>
           <Typography variant="h4">Based in India.</Typography>
 
           <Typography variant="h6" color={"orange"}>
             Work Experience :{" "}
           </Typography>
           <List>
+           
             <ListItem>
-              <ListItemText>2023-now : Full-Stack Developer</ListItemText>
-            </ListItem>
-            <ListItem>
-              <ListItemText>2022-2023 : Front-End Developer</ListItemText>
+              <ListItemText>Fresher</ListItemText>
             </ListItem>
           </List>
           <Typography variant="h6" color={"orange"}>
             Education :{" "}
           </Typography>
           <List>
+           
             <ListItem>
               <ListItemText>
-                2019-2021 : M.Sc ( Computer Science ) at RayalaSeema University
-              </ListItemText>
-            </ListItem>
-            <ListItem>
-              <ListItemText>
-                2015-2019 : B.Sc ( Computer Science ){" "}
+                2015-2018 : B.Sc ( Computer Science ){" "}
               </ListItemText>
             </ListItem>
           </List>
@@ -59,25 +53,11 @@ const About = () => {
           <List>
             <ListItem>
               <ListItemText>
-                HTML, CSS & JavaScript, React js & React-Native
+                HTML, CSS & JavaScript, React js & Bootstrap
               </ListItemText>
             </ListItem>
-            <ListItem>
-              <ListItemText>C, Java, Node.js & Firebase</ListItemText>
-            </ListItem>
-            <ListItem>
-              <ListItemText>
-                Oracle, Excellent in Firestore, Cloud Functions
-              </ListItemText>
-            </ListItem>
-          </List>
-          <Typography variant="h6" color={"orange"}>
-            Certifications :{" "}
-          </Typography>
-          <List>
-            <ListItem>
-              <ListItemText>GCP - Associate Cloud Engineer</ListItemText>
-            </ListItem>
+           
+           
           </List>
         </Box>
         <Box
@@ -108,7 +88,7 @@ const About = () => {
               }}
             >
               {" "}
-              <FcGoogle /> <>madangopalyadav6@gmail.com</>
+              <FcGoogle /> <>chandrasekhar8120@gmail.com</>
             </Typography>
           </Box>
           <Box>
@@ -121,7 +101,7 @@ const About = () => {
                 gap: 1,
               }}
             >
-              <FaGithub /> madangopalyadav6@github.com
+              <FaGithub /> chandra8120
             </Typography>
           </Box>
           <Box>

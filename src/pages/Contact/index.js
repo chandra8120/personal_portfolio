@@ -178,11 +178,11 @@ const Contact = () => {
           >
             <Header
               title="NEW BUSINESS"
-              subtitle="madangopalyadav6@gmail.com"
+              subtitle="chandrasekhar8120@gmail.com"
             />
             <Header
               title="GENERAL INQUIRIES"
-              subtitle="madangopal.info@gmail.com"
+              subtitle="chandrasekhar.info@gmail.com"
             />
           </Box>
         </Box>
