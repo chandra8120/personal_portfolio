@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2c7ec19.css",
-    "main.js": "/static/js/main.90146db0.js",
+    "main.css": "/static/css/main.77a66fb6.css",
+    "main.js": "/static/js/main.d8963db4.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/MusicApp.jpg": "/static/media/MusicApp.af24665e163f4bf99842.jpg",
     "static/media/Shoes.jpg": "/static/media/Shoes.2fed101e6e9e948b5a2f.jpg",
     "static/media/Cloud.jpg": "/static/media/Cloud.6c83f090346ef608c70a.jpg",
     "static/media/Shoppin.jpg": "/static/media/Shoppin.29fcc5b3723e183a083b.jpg",
+    "static/media/Profile.jpg": "/static/media/Profile.a3b12f13d6aeead02a68.jpg",
     "static/media/Screenshot_from_2023-05-15_13-22-14-removebg-preview.png": "/static/media/Screenshot_from_2023-05-15_13-22-14-removebg-preview.4e6530ff8c291ed13155.png",
     "static/media/developer.svg": "/static/media/developer.b0fd1f5b31bd8dba7fe399ff856c39ea.svg",
-    "static/media/Profile.jpg": "/static/media/Profile.bf5d6c3a9a7aca662cbe.jpg",
     "static/media/dosis-latin-400-normal.woff": "/static/media/dosis-latin-400-normal.9fd86b4e29ec291ccddc.woff",
     "static/media/network-mesh-wire-digital-technology-background_1017-27428.avif": "/static/media/network-mesh-wire-digital-technology-background_1017-27428.311ee586a45d09867116.avif",
     "static/media/poiret-one-latin-ext-400-normal.woff": "/static/media/poiret-one-latin-ext-400-normal.adcd6dd88a08b5d56448.woff",
@@ -24,12 +24,12 @@
     "static/media/poiret-one-cyrillic-400-normal.woff2": "/static/media/poiret-one-cyrillic-400-normal.2bb01844fa4b4148195a.woff2",
     "static/media/dosis-vietnamese-400-normal.woff2": "/static/media/dosis-vietnamese-400-normal.59987a9ad8b0a0977fd2.woff2",
     "index.html": "/index.html",
-    "main.c2c7ec19.css.map": "/static/css/main.c2c7ec19.css.map",
-    "main.90146db0.js.map": "/static/js/main.90146db0.js.map",
+    "main.77a66fb6.css.map": "/static/css/main.77a66fb6.css.map",
+    "main.d8963db4.js.map": "/static/js/main.d8963db4.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2c7ec19.css",
-    "static/js/main.90146db0.js"
+    "static/css/main.77a66fb6.css",
+    "static/js/main.d8963db4.js"
   ]
 }
