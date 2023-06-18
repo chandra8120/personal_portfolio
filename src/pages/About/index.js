@@ -115,7 +115,7 @@ const About = () => {
               }}
             >
               <FaMobile />
-              Mobile No : 8639996897
+              Mobile No : 8332001832
             </Typography>
           </Box>
         </Box>

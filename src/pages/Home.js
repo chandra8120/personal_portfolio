@@ -257,7 +257,7 @@ const Home = () => {
               <Typography variant="body2" color="text.secondary">
                 Catering to the specific requirements of a dashboard design is
                 one of my specialties in app development. Understanding the
-                importance of data visualization and intuitive user interfaces,
+                Importance of data visualization and intuitive user interfaces,
                 I create responsive dashboards that provide a seamless
                 experience across different devices.
               </Typography>
